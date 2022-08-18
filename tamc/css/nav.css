@@ -1,0 +1,9 @@
+#txtnav{color: #fff;margin-left: 4vw;font-weight: 200;font-size: 1.25vw;}
+#header{background-color: #363636;}
+#logo{width: 12vw;}
+@media (max-width: 450px)
+{
+    #txtnav{
+        font-size: 4vw;
+    }
+}

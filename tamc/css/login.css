@@ -1,0 +1,16 @@
+#login{width: 70%;margin-top: 16vw;}
+#login input{margin: 2vw;}
+#imagem{width: 16vw; margin-top:80%;}
+#linha{background-color: #fff;height: 30vw;width: 1px;margin-top: 7vw;}
+#h1login{color: #fff;margin: 0vw 0vw 1vw 2vw;font-size: 3vw;}
+#login button{margin: 2vw;}
+#login button a{text-decoration: none;color: #000;}
+@media (max-width: 450px)
+{
+    #linha{display: none;}
+    #login{margin-top: 60vw;}
+    #imagem{margin-top: -180vw;width: 60%;margin-left: 20%;}
+    #h1login{font-size: 8vw;margin-bottom: 5vw;}
+    #login{width: 80%;margin-left: 10%;}
+    #login button{margin-top:10vw;}
+}

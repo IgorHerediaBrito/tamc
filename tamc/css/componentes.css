@@ -1,0 +1,16 @@
+#largura2{
+    width: 80%;
+    height: 100%;
+}
+#margin{
+    margin-top: 7%;
+}
+#h1componentes{
+    font-size: 3vw;
+}
+@media (max-width: 450px)
+{
+    #h1componentes{
+        font-size: 8vw;
+    }
+}
